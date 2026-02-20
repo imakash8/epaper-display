@@ -1,6 +1,8 @@
 # ePaper Display — Setup & Customisation Guide
 
-> **Seeed XIAO ESP32S3 + Waveshare 2.13" ePaper V4**
+- Seeed XIAO ESP32S3 
+- Waveshare 2.13" ePaper V4
+- ePaper Breakout Board for XIAO
 
 ---
 
